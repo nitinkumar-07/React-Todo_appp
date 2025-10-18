@@ -26,8 +26,6 @@ This app helps you add, edit, delete, and clear tasks easily — with a beautifu
 - **React Icons** – For Edit/Delete icons  
 - **Netlify** – Deployment  
 
----
-
 
 ---
 
