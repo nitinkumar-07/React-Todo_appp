@@ -1,16 +1,71 @@
-# React + Vite
+# 🧾 React To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive **To-Do List application** built using **React.js** and modern UI design.  
+This app helps you add, edit, delete, and clear tasks easily — with a beautiful purple-themed interface.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [React Todo App on Netlify](https://react-todoo-app0.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ➕ Add new tasks easily  
+- ✏️ Edit existing tasks instantly  
+- 🗑️ Delete individual tasks  
+- 🧹 Clear all tasks at once  
+- 💾 Auto-focus input when editing  
+- 📱 Fully responsive for mobile & desktop  
+- 🎨 Beautiful gradient UI with glowing effects  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React.js** – UI Library  
+- **CSS3** – Styling & Responsiveness  
+- **React Icons** – For Edit/Delete icons  
+- **Netlify** – Deployment  
+
+---
+
+
+---
+
+## ⚙️ Installation & Setup
+
+To run this project locally:
+
+```bash
+# Clone this repository
+git clone https://github.com/nitinkumar-07/React-Todo_appp.git
+
+# Move into the folder
+cd React-Todo_appp
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+Then open http://localhost:5173
+ in your browser 🚀
+
+📸 Preview
+
+
+💻 Desktop View - <img width="1916" height="905" alt="Screenshot 2025-10-18 102616" src="https://github.com/user-attachments/assets/42e260b6-a640-42a2-8c10-b5caaed41c03" />
+
+
+
+📱 Mobile View - <img width="363" height="804" alt="Screenshot 2025-10-18 102710" src="https://github.com/user-attachments/assets/dc6a414b-87b1-4d28-b448-ef558c468953" />
+
+
+
+🤝 Connect With Me
+
+👤 Nitin Kumar
+
+💼 LinkedIn - https://www.linkedin.com/in/nitin-kumar-491813336/
+
+
