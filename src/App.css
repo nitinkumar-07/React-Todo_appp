@@ -143,12 +143,12 @@ h1 {
   }
 
   .input-container button {
-    font-size: 14px;
+    font-size: 13px;
   }
 
   .input-container {
-    width: 95%;
-    padding: 10px 10px;
+    width: 90%;
+    padding: 10px 12px;
   }
 
   .input-container input {
