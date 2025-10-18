@@ -3,7 +3,7 @@
 A clean and responsive **To-Do List application** built using **React.js** and modern UI design.  
 This app helps you add, edit, delete, and clear tasks easily — with a beautiful purple-themed interface.
 
-🌐 **Live Demo:** [React Todo App on Netlify](https://react-todoo-app0.netlify.app/)
+## 🌐 **Live Demo:** [React Todo App on Netlify](https://react-todoo-app0.netlify.app/)
 
 ---
 
