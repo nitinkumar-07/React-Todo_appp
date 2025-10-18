@@ -51,18 +51,17 @@ npm run dev
 Then open http://localhost:5173
  in your browser 🚀
 
-📸 Preview
+## 📸 Preview
 
 
-💻 Desktop View - <img width="1916" height="905" alt="Screenshot 2025-10-18 102616" src="https://github.com/user-attachments/assets/42e260b6-a640-42a2-8c10-b5caaed41c03" />
+💻 Desktop View - <img width="1916" height="905" alt="Screenshot 2025-10-18 102616" src="https://github.com/user-attachments/assets/42e260b6-a640-42a2-8c10-b5caaed41c03" />📱 Mobile View - 
+
+
+<img width="363" height="804" alt="Screenshot 2025-10-18 102710" src="https://github.com/user-attachments/assets/dc6a414b-87b1-4d28-b448-ef558c468953" />
 
 
 
-📱 Mobile View - <img width="363" height="804" alt="Screenshot 2025-10-18 102710" src="https://github.com/user-attachments/assets/dc6a414b-87b1-4d28-b448-ef558c468953" />
-
-
-
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 👤 Nitin Kumar
 
